@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1200&color=00FFAA&center=true&vCenter=true&width=520&lines=4Chill+%2F%2F+Polyglot+Engineer;Node+%7C+TS+%7C+Go+%7C+Py+%7C+C%2B%2B+%7C+C%23;ดื้อกับปัญหา+%2F+นอนดึก+%2F+ออนไลน์ตลอด;git+commit+-m+%22it+works+idk+why%22" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=120&section=header&text=4Chill&fontSize=48&fontColor=0d1117&fontAlignY=65&animation=fadeIn)
+
+[![](https://img.shields.io/badge/Polyglot%20Engineer-ทำได้หมด%20ถามมาเลย-00ffaa?style=for-the-badge&labelColor=0d1117)](#)
 
 <br/>
 
@@ -52,15 +54,17 @@ awake  : 02:00 - 05:00 peak hours
 ---
 
 ```
-nightcrawler  — scraper bot ที่รันตลอดคืน สร้างตอนนอนไม่หลับ     [Python]
+nightcrawler  — scraper bot ที่รันตลอดคืน สร้างตอนนอนไม่หลับ        [Python]
 hyperrouter   — api gateway เพราะอยากรู้ว่า Go เร็วกว่า Express ไหม  [Go]
-voidshell     — terminal shell เพราะสงสัยว่าจะทำได้ไหม             [C++]
-signalkit     — realtime events เพราะเบื่อ socket.io               [TypeScript]
+voidshell     — terminal shell เพราะสงสัยว่าจะทำได้ไหม              [C++]
+signalkit     — realtime events เพราะเบื่อ socket.io                [TypeScript]
 ```
 
 ---
 
 <div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=80&section=footer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=4Chill&color=00ffaa&style=flat-square&label=visitors)
 
