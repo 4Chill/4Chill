@@ -1,99 +1,117 @@
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--                    4Chill — GitHub Profile                  -->
-<!-- ════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ```
-██╗  ██╗ ██████╗██╗  ██╗██╗██╗     ██╗
-██║  ██║██╔════╝██║  ██║██║██║     ██║
-███████║██║     ███████║██║██║     ██║
-╚════██║██║     ██╔══██║██║██║     ██║
-     ██║╚██████╗██║  ██║██║███████╗███████╗
-     ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
+ ░░░░░░  ░░░░░░ ░░   ░░ ░░ ░░      ░░
+░░      ░░      ░░   ░░ ░░ ░░      ░░
+░░      ░░      ███████ ░░ ░░      ░░
+░░      ░░      ░░   ░░ ░░ ░░      ░░
+ ░░░░░░  ░░░░░░ ░░   ░░ ░░ ░░░░░░░ ░░░░░░░
 ```
 
-**`~/dev $ whoami`**
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Polyglot+Engineer+%2F%2F+ทำได้หมด;Backend+%7C+Frontend+%7C+Systems+%7C+Infra;Always+online+%7C+นอนดึก+%7C+ดื้อกับปัญหา;Building+something+weird+right+now..." alt="Typing SVG" />
 
-```
-> POLYGLOT ENGINEER — ทำได้หมด ไม่ว่าจะ backend, frontend, systems หรือ infra
-> STATUS: online 24/7 | นอนดึก | ดื้อกับปัญหา | ทดลองสิ่งใหม่อยู่ตลอด
-> LOCATION: somewhere on the internet
-```
+<br/>
+
+[![](https://img.shields.io/badge/STATUS-ONLINE-00ffaa?style=flat-square&labelColor=0a0a0f&color=00ffaa)](#)
+[![](https://img.shields.io/badge/SLEEP-OPTIONAL-555?style=flat-square&labelColor=0a0a0f)](#)
+[![](https://img.shields.io/badge/PROBLEMS-UNSOLVED%3A%200-00ffaa?style=flat-square&labelColor=0a0a0f)](#)
 
 </div>
 
 ---
 
-## `// about`
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=4Chill&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ffaa&icon_color=00ffaa&text_color=8b949e&ring_color=00ffaa" />
+
+### `$ whoami`
 
 ```yaml
-name      : 4Chill
-role      : Polyglot Engineer
-status    : "always online, always building"
-traits    :
-  - ดื้อกับปัญหา — ไม่ยอมแพ้ง่ายๆ
-  - ชอบทดลองของใหม่
-  - นอนดึก, ใช้เวลาบนโลกออนไลน์เยอะ
-  - ถ้ามีปัญหา ก็แก้ปัญหา ไม่มีคำว่า "ทำไม่ได้"
+handle   : 4Chill
+role     : Polyglot Engineer
+timezone : GMT+7 // mostly awake at 2-4am
+traits   :
+  - ดื้อกับปัญหา ไม่มีคำว่าทำไม่ได้
+  - ชอบทดลองสิ่งที่ไม่รู้ว่าจะใช้ทำอะไร
+  - ใช้เวลาส่วนใหญ่บนโลกออนไลน์
+  - debug ได้ทุกอย่าง ถ้าให้เวลาพอ
 ```
+
+<br clear="right"/>
 
 ---
 
-## `// tech stack`
+### `// stack`
 
 <div align="center">
 
-| Layer | Languages & Tools |
-|-------|------------------|
-| **Backend** | `Node.js` `Go` `Python` `C#` |
-| **Systems** | `C++` `C` |
-| **Frontend** | `JavaScript` `TypeScript` |
-| **Tooling** | `Linux` `Docker` `REST API` `Git` |
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ffaa)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3572A5)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=f34b7d)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=9B59B6)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
 ---
 
-## `// stats`
+### `// activity`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4Chill&show_icons=true&theme=merko&hide_border=true&bg_color=0a0a0f&title_color=00ffaa&icon_color=00ffaa&text_color=aaaaaa)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4Chill&layout=compact&theme=merko&hide_border=true&bg_color=0a0a0f&title_color=00ffaa&text_color=aaaaaa)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4Chill&theme=react-dark&bg_color=0d1117&color=00ffaa&line=00ffaa&point=ffffff&area=true&area_color=00ffaa&hide_border=true)](https://github.com/4Chill)
 
 </div>
 
 ---
 
-## `// contribution`
+### `// top languages`
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4Chill&theme=react-dark&bg_color=0a0a0f&color=00ffaa&line=00ffaa&point=ffffff&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4Chill&layout=donut&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ffaa&text_color=8b949e)](https://github.com/4Chill)
 
 </div>
 
 ---
 
-## `// pinned experiments`
+### `// experiments & builds`
 
-```
-◈ nightcrawler   — Web scraper + monitoring bot ที่รันตลอดคืน         [Python]
-◈ hyperrouter    — API gateway เขียน Go ที่เร็วกว่า Express           [Go]
-◈ voidshell      — Custom terminal shell — ทดลองว่า C++ ทำ shell ได้ไหม [C++]
-◈ signalkit      — Realtime event system สำหรับ Node.js               [TypeScript]
-```
+<div align="center">
+
+| project | description | lang | status |
+|---------|-------------|------|--------|
+| **nightcrawler** | web scraper + monitoring bot ที่รันตลอดคืน สร้างตอนนอนไม่หลับ | `Python` | ![](https://img.shields.io/badge/-active-00ffaa?style=flat-square&labelColor=0d1117) |
+| **hyperrouter** | api gateway เขียน Go ที่เร็วกว่า Express ตั้งใจ benchmark สนุกๆ | `Go` | ![](https://img.shields.io/badge/-active-00ffaa?style=flat-square&labelColor=0d1117) |
+| **voidshell** | custom terminal shell — ทดลองว่า C++ ทำ shell ได้ไหม | `C++` | ![](https://img.shields.io/badge/-wip-555?style=flat-square&labelColor=0d1117) |
+| **signalkit** | realtime event system สำหรับ Node.js เพราะเบื่อ socket.io | `TypeScript` | ![](https://img.shields.io/badge/-active-00ffaa?style=flat-square&labelColor=0d1117) |
+
+</div>
+
+---
+
+### `// streak`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=4Chill&theme=dark&hide_border=true&background=0d1117&ring=00ffaa&fire=00ffaa&currStreakLabel=00ffaa&sideLabels=8b949e&dates=8b949e&stroke=1a1a2e)](https://github.com/4Chill)
+
+</div>
 
 ---
 
 <div align="center">
 
 ```
-[ system online ] ··· github.com/4Chill ··· last seen: just now
+╔══════════════════════════════════════════════╗
+║   [ system online ] ··· last seen: just now  ║
+║         github.com/4Chill  //  建設中         ║
+╚══════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=4Chill&color=00ffaa&style=flat-square&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=4Chill&color=00ffaa&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
