@@ -14,16 +14,12 @@
 
 ---
 
-<img align="right" src="https://github-stats.as93.net/api?user=4Chill&hide_border=true&bg_color=0d1117&title_color=00ffaa&icon_color=00ffaa&text_color=8b949e&show_icons=true" />
-
 ```yaml
 handle : 4Chill
 role   : ทำได้หมด ถามมาเลย
 mood   : ขี้เกียจแต่ก็ทำ
 awake  : 02:00 - 05:00 peak hours
 ```
-
-<br clear="right"/>
 
 ---
 
