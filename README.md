@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=120&section=header&text=4Chill&fontSize=48&fontColor=0d1117&fontAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4fc3f7&height=120&section=header&text=4Chill&fontSize=48&fontColor=0a0d14&fontAlignY=65&animation=fadeIn)
 
-[![](https://img.shields.io/badge/Polyglot%20Engineer-ทำได้หมด%20ถามมาเลย-00ffaa?style=for-the-badge&labelColor=0d1117)](#)
+[![](https://img.shields.io/badge/Polyglot%20Engineer-ทำได้หมด%20ถามมาเลย-4fc3f7?style=for-the-badge&labelColor=0d1117)](#)
 
 <br/>
 
-[![](https://img.shields.io/badge/STATUS-ONLINE-00ffaa?style=flat-square&labelColor=0d1117)](#)
+[![](https://img.shields.io/badge/STATUS-ONLINE-4fc3f7?style=flat-square&labelColor=0d1117)](#)
 [![](https://img.shields.io/badge/SLEEP-OPTIONAL-444?style=flat-square&labelColor=0d1117)](#)
 [![](https://img.shields.io/badge/BUGS-ITS_A_FEATURE-444?style=flat-square&labelColor=0d1117)](#)
 
@@ -25,7 +25,7 @@ awake  : until the code works
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ffaa)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=4fc3f7)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3572A5)
@@ -40,9 +40,9 @@ awake  : until the code works
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4Chill&theme=react-dark&bg_color=0d1117&color=00ffaa&line=00ffaa&point=ffffff&area=true&hide_border=true)](https://github.com/4Chill)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4Chill&theme=react-dark&bg_color=0d1117&color=4fc3f7&line=4fc3f7&point=ffffff&area=true&hide_border=true)](https://github.com/4Chill)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=4Chill&theme=dark&hide_border=true&background=0d1117&ring=00ffaa&fire=00ffaa&currStreakLabel=00ffaa)](https://github.com/4Chill)
+[![GitHub Streak](https://streak-stats.demolab.com?user=4Chill&theme=dark&hide_border=true&background=0d1117&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7)](https://github.com/4Chill)
 
 </div>
 
@@ -59,8 +59,8 @@ signalkit     — realtime events เพราะเบื่อ socket.io      
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=4fc3f7&height=80&section=footer)
 
-![Profile Views](https://komarev.com/ghpvc/?username=4Chill&color=00ffaa&style=flat-square&label=visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=4Chill&color=4fc3f7&style=flat-square&label=visitors)
 
 </div>
