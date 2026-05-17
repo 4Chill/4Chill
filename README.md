@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=4Chill&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ffaa&icon_color=00ffaa&text_color=8b949e" />
+<img align="right" src="https://github-stats.as93.net/api?user=4Chill&hide_border=true&bg_color=0d1117&title_color=00ffaa&icon_color=00ffaa&text_color=8b949e&show_icons=true" />
 
 ```yaml
 handle : 4Chill
@@ -46,7 +46,6 @@ awake  : 02:00 - 05:00 peak hours
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4Chill&theme=react-dark&bg_color=0d1117&color=00ffaa&line=00ffaa&point=ffffff&area=true&hide_border=true)](https://github.com/4Chill)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4Chill&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffaa&text_color=8b949e)](https://github.com/4Chill)
 [![GitHub Streak](https://streak-stats.demolab.com?user=4Chill&theme=dark&hide_border=true&background=0d1117&ring=00ffaa&fire=00ffaa&currStreakLabel=00ffaa)](https://github.com/4Chill)
 
 </div>
