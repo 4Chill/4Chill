@@ -18,7 +18,7 @@
 handle : 4Chill
 role   : ทำได้หมด ถามมาเลย
 mood   : ขี้เกียจแต่ก็ทำ
-awake  : 02:00 - 05:00 peak hours
+awake  : until the code works
 ```
 
 ---
